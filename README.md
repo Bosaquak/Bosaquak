@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Kent</h2>
+<h2 align="center">MARIAN KENT O. MANALO</h2>
 
 ###
 
