@@ -38,18 +38,6 @@
  
 </div>
 
-###
 
-<div align="left">
-    <a href="fb.com/boomonstermanalo">
-      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"   />
-    </a>
-  
-</div>
-
-<div align="left">
-    <a></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f21859&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
 
 ###
