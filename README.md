@@ -50,7 +50,8 @@
 
 
 <div align="left">
- <a href="https://fb.com/boomonstermanalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boomonstermanalo" height="30" width="40" /></a>
+ <a href="https://fb.com/boomonstermanalo" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</a>
  
 
 </div>
